@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda de contatos</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_close">Fechar</string>
+    <string name="action_novo">Novo contato</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="subtitulo">TADS 2017.1</string>
+    <string name="nome">Digite o nome</string>
+    <string name="telefone">Digite o telefone</string>
+    <string name="btn_inserir">Inserir</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_ligar">Ligar</string>
+    <string name="btn_fechar">Fechar</string>
+</resources>
